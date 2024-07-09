@@ -1,0 +1,6 @@
+.vscode
+build.sh
+rssagg
+.env
+migrate.sh
+sqlc.yaml
